@@ -20,7 +20,7 @@ A simple registration GUI.
     * when you already signed up, in sign in window you should enter your created email and password(programm will check if your email and encrypted passoword exist in database).
     
   * Reset
-    * you can reset your password by clicking reset password
+    * you can reset your password by clicking reset button
     * after clicking reset button you should enter your email(programm will check if your email exists in database).
     * if your email exists in database, programm will send code(for example 4456) to your email then you should enter sended code.
     * if you entered correct code, reset frame will show up and you can change your password.
@@ -37,7 +37,7 @@ A simple registration GUI.
     
   * Email
     * programm will send code to your email
-    * you can resend code by clicking reset password.
+    * you can resend code by clicking resend button.
     ![photo_2021-02-16_11-00-56](https://user-images.githubusercontent.com/71791856/108020352-65a0f100-7046-11eb-97f3-cfb531b8133a.jpg)
 
     

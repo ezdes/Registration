@@ -39,7 +39,7 @@ A simple registration GUI.
     * programm will send code to your email
     * you can resend code by clicking resend button.
    
-   <img src="https://user-images.githubusercontent.com/71791856/108020352-65a0f100-7046-11eb-97f3-cfb531b8133a.jpg" alt="screenshot" style="width=5px; height=5px;"/>
+   <img src="https://user-images.githubusercontent.com/71791856/108020352-65a0f100-7046-11eb-97f3-cfb531b8133a.jpg" alt="screenshot"/>
 
     
 

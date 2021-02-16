@@ -3,9 +3,9 @@
 A simple registration GUI.
 
 # Important!
- * Please enter you real email in email field, because programm will send you email to confirm your account
- * Your email will be save don't worry)
- * If you have problem with registration please go to screenshot folder, there you can see examples of registration
+ * Please enter you real email in email field, because programm will send you email to confirm your account.
+ * Your email will be save don't worry).
+ * If you have problem with registration please go to screenshot folder, there you can see examples of registration.
 
 ## Features
   * Checking for correct data
@@ -16,21 +16,25 @@ A simple registration GUI.
     * you can hide your password by clicking show JCheckbox.
     * your password min length should be equal to 8.
     * your email min length should be equal to 6.
-    * refresh button
-    * when you already signed up, in sign in window you should enter your created email and password(programm will check if your email and encrypted passoword exist in database)
+    * refresh button.
+    * when you already signed up, in sign in window you should enter your created email and password(programm will check if your email and encrypted passoword exist in database).
     
   * Reset
     * you can reset your password by clicking reset password
     * after clicking reset button you should enter your email(programm will check if your email exists in database).
-    * if your email exists in database, programm will send code(for example 4456) to your email then you should enter sended code
-    * if you entered correct code, reset frame will show up and you can change your password
-    * now in database you password will be changed and encrypted
+    * if your email exists in database, programm will send code(for example 4456) to your email then you should enter sended code.
+    * if you entered correct code, reset frame will show up and you can change your password.
+    * now in database you password will be changed and encrypted.
     
   * Email
     * programm will send code to your email
-    * you can resend code by clicking reset password
+    * you can resend code by clicking reset password.
     
   * Password encryption
-    * programm will encrypt your password
-    * for example if your password equal to kesha2004, in database your passoword will be saved like 4002ashekk
-    * but in passoword field you should enter your not encrypted passoword: kesha2004
+    * programm will encrypt your password.
+    * for example if your password equal to kesha2004, in database your passoword will be saved like 4002ashekk.
+    * but in passoword field you should enter your not encrypted passoword: kesha2004.
+    
+  * Snake
+   * if you signed in successfully you can play snake game.
+  

@@ -25,11 +25,11 @@ A simple registration GUI.
     * if you entered correct code, reset frame will show up and you can change your password
     * now in database you password will be changed and encrypted
     
-   * Email
+  * Email
     * programm will send code to your email
     * you can resend code by clicking reset password
     
-   * Password encryption
+  * Password encryption
     * programm will encrypt your password
     * for example if you password equal to kesha2004, in database your passoword will be saved like 4002ashekk
     * but in passoword field you should enter your not encrypted passoword: kesha2004

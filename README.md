@@ -5,6 +5,7 @@ A simple registration GUI.
 # Important!
  * Please enter you real email in email field, because programm will send you email to confirm your account
  * Your email will be save don't worry)
+ * If you have problem with registration please go to screenshot folder, there you can see examples of registration
 
 ## Features
   * Checking for correct data

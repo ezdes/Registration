@@ -31,5 +31,5 @@ A simple registration GUI.
     
   * Password encryption
     * programm will encrypt your password
-    * for example if you password equal to kesha2004, in database your passoword will be saved like 4002ashekk
+    * for example if your password equal to kesha2004, in database your passoword will be saved like 4002ashekk
     * but in passoword field you should enter your not encrypted passoword: kesha2004

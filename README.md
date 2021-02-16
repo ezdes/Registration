@@ -26,17 +26,19 @@ A simple registration GUI.
     * if you entered correct code, reset frame will show up and you can change your password.
     * now in database you password will be changed and encrypted.
     
-  * Email
-    * programm will send code to your email
-    * you can resend code by clicking reset password.
-    ![photo_2021-02-16_11-00-56](https://user-images.githubusercontent.com/71791856/108020352-65a0f100-7046-11eb-97f3-cfb531b8133a.jpg)
-
-    
   * Password encryption
     * programm will encrypt your password.
     * for example if your password equal to kesha2004, in database your passoword will be saved like 4002ashekk.
     * but in passoword field you should enter your not encrypted passoword: kesha2004.
     
   * Snake
-   * if you signed in successfully you can play snake game.
+    * if you signed in successfully you can play snake game.
   
+    
+  * Email
+    * programm will send code to your email
+    * you can resend code by clicking reset password.
+    ![photo_2021-02-16_11-00-56](https://user-images.githubusercontent.com/71791856/108020352-65a0f100-7046-11eb-97f3-cfb531b8133a.jpg)
+
+    
+
